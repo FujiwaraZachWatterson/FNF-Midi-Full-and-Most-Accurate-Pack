@@ -38,7 +38,7 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
   
 ## List of Friday Night Funkin' Songs (Including Mods)
 ### Friday Night Funkin' Midi
-- [Friday Night Funkin': Entity](https://gamebanana.com/mods/284934)
+- [Friday Night Funkin': Entity (+ Vs. A.G.O.T.I.)](https://gamebanana.com/mods/284934)
 - [Friday Night Funkin': Entity Origins: BREAKOUT](https://gamebanana.com/mods/319127)
 - [Friday Night Funkin': Baddies](https://www.mediafire.com/file/k52m4eltdem6pa6/FNF_Baddies.zip/file)
 - [Friday Night Fever](https://gamebanana.com/mods/310465)
